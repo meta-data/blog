@@ -1,0 +1,11 @@
+{
+    "plugins": ["ga", "-sharing"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-125813740-1"
+        }
+    },
+    "variables": {
+        "BASE_URL": "https://meta-data.github.io"
+    }
+}

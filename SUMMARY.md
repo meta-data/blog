@@ -6,4 +6,4 @@
 
 * Project Logs
     * [18-09-14](project-01/logs/18-09-14.md)
-    * [18-09-14](project-01/logs/18-09-15.md)
+    * [18-09-15](project-01/logs/18-09-15.md)
